@@ -4,7 +4,7 @@ A feature-rich, responsive, collaborative Todo application built using React and
 This project demonstrates multi-context state management, performance optimization with memoization, custom hooks, simulated collaboration, and modern UI/UX.
 ```
 # Features # 
-```
+
 🔐 Authentication
 Mock login/logout using a simple username.
 App content is protected and only visible to authenticated users.
@@ -32,7 +32,7 @@ React (Vite)
 React Context API
 React Icons
 Custom Responsive CSS
-```
+
 # 📁 Project Architecture #
 
 ```
@@ -64,7 +64,7 @@ my-react-app/
 Live URL: https://todoapplication-react-vite.netlify.app/
 ```
 # Video Walkthrough #
-Video URL: https://drive.google.com/file/d/1BRS83HzV4llOtomkC1kVWnkFidJOHvaT/view?usp=sharing
+```Video URL:``` https://drive.google.com/file/d/1BRS83HzV4llOtomkC1kVWnkFidJOHvaT/view?usp=sharing
 
 #What to show in the video#
 ```
