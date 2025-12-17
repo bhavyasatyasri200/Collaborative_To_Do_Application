@@ -4,8 +4,9 @@ A feature-rich, responsive, collaborative Todo application built using React and
 This project demonstrates multi-context state management, performance optimization with memoization, custom hooks, simulated collaboration, and modern UI/UX.
 ```
 # Features # 
-
+```
 🔐 Authentication
+
 Mock login/logout using a simple username.
 App content is protected and only visible to authenticated users.
 📝 Task Management
@@ -32,7 +33,7 @@ React (Vite)
 React Context API
 React Icons
 Custom Responsive CSS
-
+```
 # 📁 Project Architecture #
 
 ```
